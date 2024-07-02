@@ -1,2 +1,2 @@
 # Sumit_
-I developed the landing web Page using Html and CSS
+I developed the googleChrome Extension using a technologies with html, CSS, and JavaScript 
